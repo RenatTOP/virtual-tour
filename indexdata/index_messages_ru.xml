@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[Сіверський професійний ліцей]]></data>
+
+
+  <data name="ru_panogroup687_title"><![CDATA[Двір]]></data>
+
+  <data name="ru_pano685_title"><![CDATA[Головний вхід]]></data>
+  <data name="ru_spotpoint705_tooltip"><![CDATA[Внутрішній двір 1]]></data>
+  <data name="ru_spotpolygon706_tooltip"><![CDATA[Головний вхід]]></data>
+  <data name="ru_pano684_title"><![CDATA[Внутрішній двір 1]]></data>
+  <data name="ru_spotpoint700_tooltip"><![CDATA[Внутрішній двір 2]]></data>
+  <data name="ru_spotpoint701_tooltip"><![CDATA[Головний вхід]]></data>
+  <data name="ru_spotpoint702_tooltip"><![CDATA[Внутрішній двір]]></data>
+  <data name="ru_pano680_title"><![CDATA[Внутрішній двір]]></data>
+  <data name="ru_spotpolygon693_tooltip"><![CDATA[Хол]]></data>
+  <data name="ru_spotpolygon694_tooltip"><![CDATA[До їдальні]]></data>
+  <data name="ru_spotpoint696_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_spotpoint698_tooltip"><![CDATA[Внутрішній двір 4]]></data>
+  <data name="ru_pano681_title"><![CDATA[Внутрішній двір 2]]></data>
+  <data name="ru_spotpoint699_tooltip"><![CDATA[Внутрішній двір 1]]></data>
+  <data name="ru_spotpoint703_tooltip"><![CDATA[Внутрішній двір 3]]></data>
+  <data name="ru_pano682_title"><![CDATA[Внутрішній двір 3]]></data>
+  <data name="ru_spotpoint704_tooltip"><![CDATA[Внутрішній двір 2]]></data>
+  <data name="ru_spotpoint707_tooltip"><![CDATA[Внутрішній двір 4]]></data>
+  <data name="ru_pano683_title"><![CDATA[Внутрішній двір 4]]></data>
+  <data name="ru_spotpoint708_tooltip"><![CDATA[Внутрішній двір 3]]></data>
+  <data name="ru_spotpoint709_tooltip"><![CDATA[Внутрішній двір]]></data>
+
+  <data name="ru_panogroup113_title"><![CDATA[1 поверх]]></data>
+
+  <data name="ru_pano112_title"><![CDATA[Хол]]></data>
+  <data name="ru_spotpoint119_tooltip"><![CDATA[Хол]]></data>
+  <data name="ru_spotpolygon137_tooltip"><![CDATA[До коридору]]></data>
+  <data name="ru_spotpoint448_tooltip"><![CDATA[До коридору]]></data>
+  <data name="ru_spotpolygon936_tooltip"><![CDATA[Двір]]></data>
+  <data name="ru_spotpoint937_tooltip"><![CDATA[Актова зала]]></data>
+  <data name="ru_pano117_title"><![CDATA[Хол]]></data>
+  <data name="ru_spotpoint120_tooltip"><![CDATA[Хол]]></data>
+  <data name="ru_spotpolygon438_tooltip"><![CDATA[Кабінет фізики]]></data>
+  <data name="ru_spotpolygon481_tooltip"><![CDATA[Кабінет майстрів виробничого навчання]]></data>
+  <data name="ru_spotpolygon692_tooltip"><![CDATA[Внутрішній двір]]></data>
+  <data name="ru_pano482_title"><![CDATA[Кабінет майстрів виробничого навчання]]></data>
+  <data name="ru_spotpolygon484_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano436_title"><![CDATA[Кабінет фізики]]></data>
+  <data name="ru_spotpolygon439_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano138_title"><![CDATA[Коридор 1]]></data>
+  <data name="ru_spotpoint144_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_spotpoint174_tooltip"><![CDATA[Хол]]></data>
+  <data name="ru_spotpolygon232_tooltip"><![CDATA[Кабінет біології]]></data>
+  <data name="ru_spotpolygon236_tooltip"><![CDATA[Кабінет тракторів]]></data>
+  <data name="ru_pano225_title"><![CDATA[Кабінет біології]]></data>
+  <data name="ru_spotpolygon233_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano234_title"><![CDATA[Кабінет тракторів]]></data>
+  <data name="ru_spotpolygon237_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano139_title"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpoint145_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_spotpoint173_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon240_tooltip"><![CDATA[Кабінет громадянської освіти]]></data>
+  <data name="ru_spotpolygon244_tooltip"><![CDATA[Кабінет будови та експлуатації автомобіля]]></data>
+  <data name="ru_pano238_title"><![CDATA[Кабінет правознавства]]></data>
+  <data name="ru_spotpolygon241_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano242_title"><![CDATA[Кабінет будови та експлуатації автомобіля]]></data>
+  <data name="ru_spotpolygon245_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano140_title"><![CDATA[Коридор 3]]></data>
+  <data name="ru_spotpoint172_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon219_tooltip"><![CDATA[Тренажерна зала]]></data>
+  <data name="ru_spotpoint224_tooltip"><![CDATA[До другого поверху]]></data>
+  <data name="ru_spotpolygon248_tooltip"><![CDATA[Кабінет охорони праці]]></data>
+  <data name="ru_spotpolygon351_tooltip"><![CDATA[Спортивна зала]]></data>
+  <data name="ru_spotpolygon442_tooltip"><![CDATA[До їдальні]]></data>
+  <data name="ru_pano220_title"><![CDATA[Тренажерна зала]]></data>
+  <data name="ru_spotpolygon222_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano246_title"><![CDATA[Кабінет охорони праці]]></data>
+  <data name="ru_spotpolygon249_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano349_title"><![CDATA[Спортивна зала]]></data>
+  <data name="ru_spotpolygon352_tooltip"><![CDATA[Назад до 1-го поверха]]></data>
+  <data name="ru_spotpolygon353_tooltip"><![CDATA[Назад до 2-го поверха]]></data>
+  <data name="ru_pano440_title"><![CDATA[Коридор до їдальні]]></data>
+  <data name="ru_spotpolygon443_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon444_tooltip"><![CDATA[Їдальня]]></data>
+  <data name="ru_spotpolygon695_tooltip"><![CDATA[Внутрішній двір]]></data>
+  <data name="ru_pano445_title"><![CDATA[Їдальня]]></data>
+  <data name="ru_spotpolygon447_tooltip"><![CDATA[Назад]]></data>
+
+  <data name="ru_panogroup187_title"><![CDATA[2 поверх]]></data>
+
+  <data name="ru_pano181_title"><![CDATA[Коридор 1]]></data>
+  <data name="ru_spotpoint193_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_spotpolygon259_tooltip"><![CDATA[Кабінет інформаційних технологій]]></data>
+  <data name="ru_spotpoint449_tooltip"><![CDATA[До перного поверху]]></data>
+  <data name="ru_spotpoint450_tooltip"><![CDATA[До актової зали]]></data>
+  <data name="ru_pano260_title"><![CDATA[Кабінет інформаційних технологій]]></data>
+  <data name="ru_spotpolygon262_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano182_title"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpoint194_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint195_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_spotpolygon263_tooltip"><![CDATA[Кабінет історії]]></data>
+  <data name="ru_pano264_title"><![CDATA[Кабінет історії]]></data>
+  <data name="ru_spotpolygon267_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano183_title"><![CDATA[Коридор 3]]></data>
+  <data name="ru_spotpoint196_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint197_tooltip"><![CDATA[Коридор 4]]></data>
+  <data name="ru_spotpolygon270_tooltip"><![CDATA[Кабінет інформаційних технологій]]></data>
+  <data name="ru_spotpolygon274_tooltip"><![CDATA[Кабінет правил дорожнього руху]]></data>
+  <data name="ru_pano268_title"><![CDATA[Кабінет інформаційних технологій]]></data>
+  <data name="ru_spotpolygon271_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano272_title"><![CDATA[Кабінет правил дорожнього руху]]></data>
+  <data name="ru_spotpolygon275_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano184_title"><![CDATA[Коридор 4]]></data>
+  <data name="ru_spotpoint198_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint199_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_spotpolygon276_tooltip"><![CDATA[Кабінет інформатики]]></data>
+  <data name="ru_spotpoint279_tooltip"><![CDATA[До першого поверху]]></data>
+  <data name="ru_spotpolygon354_tooltip"><![CDATA[Спортивна зала]]></data>
+  <data name="ru_pano277_title"><![CDATA[Кабінет інформатики]]></data>
+  <data name="ru_spotpolygon280_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano185_title"><![CDATA[Коридор 5]]></data>
+  <data name="ru_spotpoint200_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon283_tooltip"><![CDATA[Кабінет комп'ютерних технологій]]></data>
+  <data name="ru_pano281_title"><![CDATA[Кабінет комп'ютерних технологій]]></data>
+  <data name="ru_spotpolygon284_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano451_title"><![CDATA[Актова зала]]></data>
+  <data name="ru_spotpolygon453_tooltip"><![CDATA[До коридору]]></data>
+  <data name="ru_spotpolygon454_tooltip"><![CDATA[До холу]]></data>
+  <data name="ru_spotpolygon455_tooltip"><![CDATA[Кабінет товарознавства]]></data>
+  <data name="ru_spotpoint461_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_pano456_title"><![CDATA[Кабінет товарознавства]]></data>
+  <data name="ru_spotpolygon458_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano459_title"><![CDATA[Актова зала]]></data>
+  <data name="ru_spotpoint462_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon465_tooltip"><![CDATA[Кабінет математики]]></data>
+  <data name="ru_spotpoint469_tooltip"><![CDATA[Далі]]></data>
+  <data name="ru_pano463_title"><![CDATA[Кабінет математики]]></data>
+  <data name="ru_spotpolygon466_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano467_title"><![CDATA[Актова зала]]></data>
+  <data name="ru_spotpoint470_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon471_tooltip"><![CDATA[Кабінет англійської мови]]></data>
+  <data name="ru_spotpolygon475_tooltip"><![CDATA[Кабінет української мови]]></data>
+  <data name="ru_pano472_title"><![CDATA[Кабінет англійської мови]]></data>
+  <data name="ru_spotpolygon474_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano478_title"><![CDATA[Кабінет української мови]]></data>
+  <data name="ru_spotpolygon480_tooltip"><![CDATA[Назад]]></data>
+
+
+
+
+
+
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
